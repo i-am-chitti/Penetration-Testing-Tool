@@ -21,6 +21,5 @@ __Quick Start__
 1. Clone to this repo.
 2. Move to the specific tool
 3. Run it in terminal
-'''
 >> python <fileName.py>
-'''
+
