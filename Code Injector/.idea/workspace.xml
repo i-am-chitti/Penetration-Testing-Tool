@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="330f095b-f4d0-4aab-b5a1-90a6a8b572c6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZRM2l98h7JkB17RogsdOKl4Xfo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Packet Sniffer" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="330f095b-f4d0-4aab-b5a1-90a6a8b572c6" name="Default Changelist" comment="" />
+      <created>1584797247576</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584797247576</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="580" y="156" width="800" height="679" key="#Inspections" timestamp="1584797906673">
+      <screen x="50" y="27" width="1870" height="935" />
+    </state>
+    <state x="580" y="156" width="800" height="679" key="#Inspections/50.27.1870.935@50.27.1870.935" timestamp="1584797906673" />
+    <state x="768" y="252" width="424" height="486" key="FileChooserDialogImpl" timestamp="1585204928177">
+      <screen x="50" y="27" width="1870" height="935" />
+    </state>
+    <state x="768" y="252" width="424" height="486" key="FileChooserDialogImpl/50.27.1870.935@50.27.1870.935" timestamp="1585204928177" />
+  </component>
+</project>
