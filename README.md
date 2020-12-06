@@ -1,4 +1,4 @@
-# **Hacking-Tools**
+# **Primitive Security Tools**
 
 This repository contains scripts programmed in python. The name of folders specify the work they would do. These scripts have been developed just for educational purpose. Thus, it is recommended to test these scripts against targets which you have permission to do. 
 
@@ -6,7 +6,7 @@ This repository contains scripts programmed in python. The name of folders speci
 __Get Involved__
 -----------------
 You can get in touch with me in following ways:
-Email: deepakak64@gmail.com
+Email: cu.18bcs2295@gmail.com
 
 __Requirements__
 ----------------
