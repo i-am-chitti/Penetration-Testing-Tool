@@ -1,4 +1,4 @@
-# **Primitive Security Tools**
+# **Penetration Testing Tools**
 
 This repository contains scripts programmed in python. The name of folders specify the work they would do. These scripts have been developed just for educational purpose. Thus, it is recommended to test these scripts against targets which you have permission to do. 
 
